@@ -1,2 +1,2 @@
 # Library-Management-System
-It is a easily coded C++ program for Library Management System using if-else conditions.
+It is an easy program coded in C++ language for 1st semester project in College.
