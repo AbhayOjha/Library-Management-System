@@ -1,5 +1,6 @@
-/*  NOTE: If you are runnig this code on Windows then,
+/*  NOTE: If you are runnig this code on Windows machine then,
 please replace system("clear") with system("cls")   */
+
 
 #include <iostream>
 #include <iomanip>
